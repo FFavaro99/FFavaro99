@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FFavaro99
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning react, express and postgres
+- 💞️ I’m looking to collaborate on any kind of simple full stack project 
+- 📫 How to reach me write me a mail at fedefavaro99@gmail.com
