@@ -2,4 +2,4 @@
 - 👀 I’m interested in Chess Engines, Web Development and console emulation
 - 🌱 I’m an oracle certified Java developer and have some experience with the languages of the web (JS, html, CSS) and constantly learning new things!
 - Currently studying Spring, Spring Boot, Spring Security while working on a simple chess engine on the side
-- 📫 How to reach me write me a mail at fedefavaro99@gmail.com
+- 📫 write me a mail at fedefavaro99@gmail.com
